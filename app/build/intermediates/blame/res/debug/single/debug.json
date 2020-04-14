@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable_box_normal.9.png.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable\\box_normal.9.png"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_app_main.png.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable-hdpi\\ic_app_main.png"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_clear.png.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_clear.png"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_app_main.png.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable-mdpi\\ic_app_main.png"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_help.png.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_help.png"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\xml_nfc_tech_filter.xml.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\xml\\nfc_tech_filter.xml"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable_box.xml.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable\\box.xml"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_help.png.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_help.png"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_about.png.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_about.png"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\layout_nfcard.xml.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\layout\\nfcard.xml"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_app_main.png.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable-ldpi\\ic_app_main.png"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable_container.9.png.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable\\container.9.png"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_clear.png.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_clear.png"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_clear.png.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_clear.png"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_help.png.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_help.png"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable_box_selected.9.png.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable\\box_selected.9.png"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu_about.png.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable-ldpi\\ic_menu_about.png"
+    },
+    {
+        "merged": "D:\\Android\\NFC-Card\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_about.png.flat",
+        "source": "D:\\Android\\NFC-Card\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_about.png"
+    }
+]
