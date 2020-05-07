@@ -1,2 +1,0 @@
-com.sinpo.xnfc.NFCard
-com.sinpo.xnfc.NFCard: NFCard()

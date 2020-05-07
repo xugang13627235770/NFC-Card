@@ -1,2 +1,0 @@
-# Referenced at D:\Android\NFC-Card\app\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:20
--keep class com.sinpo.xnfc.NFCard { <init>(...); }
